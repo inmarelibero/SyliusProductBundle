@@ -51,6 +51,14 @@
         {
             "type": "path",
             "url": "../../*/*"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/PyRowMan/SyliusResourceBundle.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/inmarelibero/Product.git"
         }
     ],
     "extra": {
