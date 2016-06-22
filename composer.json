@@ -23,18 +23,18 @@
         "php": "^5.6|^7.0",
 
         "stof/doctrine-extensions-bundle": "~1.1",
-        "sylius/product": "^0.19",
+        "sylius/product": "symfony_3_compatibility",
         "sylius/archetype-bundle": "^0.19",
         "sylius/attribute-bundle": "^0.19",
         "sylius/association-bundle": "^0.19",
         "sylius/variation-bundle": "^0.19",
-        "sylius/resource-bundle": "^0.19",
-        "symfony/framework-bundle": "^2.8"
+        "sylius/resource-bundle": "symfony_3_compatibility",
+        "symfony/framework-bundle": "3.0.*"
     },
     "require-dev": {
         "phpspec/phpspec": "^2.4",
-        "symfony/form": "^2.8",
-        "symfony/validator": "^2.8"
+        "symfony/form": "^3.0",
+        "symfony/validator": "^3.0"
     },
     "config": {
         "bin-dir": "bin"
@@ -54,8 +54,5 @@
         }
     ],
     "extra": {
-        "branch-alias": {
-            "dev-master": "0.19-dev"
-        }
     }
 }
