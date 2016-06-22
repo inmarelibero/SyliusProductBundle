@@ -26,8 +26,8 @@
         "sylius/product": "dev-symfony_3_compatibility",
         "sylius/archetype-bundle": "dev-symfony_3_compatibility",
         "sylius/attribute-bundle": "dev-symfony_3_compatibility",
-        "sylius/association-bundle": "^0.19",
-        "sylius/variation-bundle": "^0.19",
+        "sylius/association-bundle": "dev-symfony_3_compatibility",
+        "sylius/variation-bundle": "dev-symfony_3_compatibility",
         "sylius/resource-bundle": "dev-symfony_3_compatibility",
         "symfony/framework-bundle": "3.0.*"
     },
