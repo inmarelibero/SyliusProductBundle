@@ -24,7 +24,7 @@
 
         "stof/doctrine-extensions-bundle": "~1.1",
         "sylius/product": "dev-symfony_3_compatibility",
-        "sylius/archetype-bundle": "^0.19",
+        "sylius/archetype-bundle": "dev-symfony_3_compatibility",
         "sylius/attribute-bundle": "^0.19",
         "sylius/association-bundle": "^0.19",
         "sylius/variation-bundle": "^0.19",
